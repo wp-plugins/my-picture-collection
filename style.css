@@ -1,0 +1,41 @@
+.mypc-container {
+	margin-top: 10px;
+	text-align: left;
+}
+
+.mypc-element {
+}
+
+.mypc-container a {
+	text-decoration: none;
+}
+
+.mypc-container .mypc-title {
+	max-width: 150px;
+	
+	font-family: Arial, Georgia;
+	color: #666666;
+}
+
+.mypc-container .mypc-stats {
+	margin-bottom: 5px;
+}
+
+.mypc-container .mypc-img {
+	border: 1px solid silver;
+}
+
+.mypc-container .mypc-karmabar {
+	list-style-type: none;
+	font-weight: bold;
+	
+	font-family: Arial;
+}
+
+.mypc-container .mypc-karmabar-filled {
+	color: #AA0000;
+}
+
+.mypc-container .mypc-karmabar-default {
+	color: #AAAAAA;
+}
